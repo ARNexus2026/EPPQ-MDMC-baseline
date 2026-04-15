@@ -90,4 +90,4 @@ It is instead a **signature of self-organized criticality**, demonstrated in the
 ## 7. How to Run
 
 ```bash
-python lambda_mdmc.py
+eppq_mdmc_baseline.py
